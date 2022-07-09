@@ -1,4 +1,4 @@
-# 4 Projeto: "Criando um frontend totalmente componentizado na prática com ReactJS" :smirk:
+# 4 Projeto: "Criando um frontend totalmente componentizado na pratica com ReactJS" :smirk:
 
 Repositório do Projeto: "Criando um frontend totalmente componentizado com ReactJs" ministrado no BootCamp
 
